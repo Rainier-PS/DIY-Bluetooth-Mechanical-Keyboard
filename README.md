@@ -38,12 +38,6 @@ The project also gave me a chance to learn about PCB layout, 3D CAD, component s
 
 ---
 
-### Fully Assembled  
-> Final build fully assembled with switches, keycaps, and wrist rest  
-![assembled_keyboard](images/Fully_Assembled.png)
-
----
-
 ## Bill of Materials (BOM)
 
 | No. | Category               | Item                          | Qty     | Est. Price (USD) | Description / Notes                                                                                                   | Link                                                                 |
