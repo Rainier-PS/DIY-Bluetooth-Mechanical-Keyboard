@@ -22,7 +22,7 @@ The project also gave me a chance to learn about PCB layout, 3D CAD, component s
 
 ### 3D CAD Model  
 > Simplified CAD model for structural representation only. Some non-critical details like stabilizers and screws are omitted for clarity  
-![cad_model](images/3D_Model.png)
+![cad_model](images/3D%20Model.png)
 
 ---
 
