@@ -4,10 +4,7 @@ Author: Rainier Pearson Saputra
 
 Created at: 2025-07-11
 
----
-
 **Total Time Spent: 30 hours**
-
 ---
 
 # July 11 – Planning, BOM, and Schematics
