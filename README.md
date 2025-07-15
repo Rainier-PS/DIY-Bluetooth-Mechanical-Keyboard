@@ -54,8 +54,11 @@ The project also gave me a chance to learn about PCB layout, 3D CAD, component s
 | 13  | Damping & Isolation    | Non-slip Feet                        | 1 set   | 1                | To prevent sliding and improve stability                                      | [Tokopedia](https://tk.tokopedia.com/ZSBqsCjBn/) |
 | 14  | Assembly               | Solder Wire                          | 1 pc    | 2                | For assembling all components                                                 | [Tokopedia](https://www.tokopedia.com/mitra-abadi-official/timah-solder-diameter-08-mm-panjang-10-meter?utm_source=salinlink&utm_medium=share&utm_campaign=PDP-266238606-60532398-130725-RKdhUE) |
 | 15  | Assembly               | Flux                                 | 1 pc    | 1                | Improves soldering quality, especially for small pads                         | [Tokopedia](https://www.tokopedia.com/mirorim/flux-minyak-solder-soldering-paste-cream-oil-songka-pasta-rosin-zj-80ml-a851e?utm_source=salinlink&utm_medium=share&utm_campaign=PDP-266238606-11865644997-130725-RKdhUE) |
-| 16  | PCB & Electronics      | Custom PCB                           | 5 pcs   | 5                | Custom-designed using KiCad
+| 16  | PCB & Electronics      | Custom PCB                           | 5 pcs   | 5                | Custom-designed using KiCad                                                   | — |
+| 17  | Case Components        | Case                                 | 1 pc    | 8                | One-piece case made via 3D printing or CNC aluminum                           | — |
+| 18  | Case Components        | Wristrest                            | 1 pc    | 12               | Detachable wrist rest for ergonomic support                                   | — |
+| 19  | Feature Add-on         | Passive NFC Tags                     | 1 pack  | 4                | Embedded inside the case for triggering automations                           | [Tokopedia](https://tk.tokopedia.com/ZSBVtqGWa/) |
 
-> Total: $136 USD
+Total: $136 USD
 
 > Prices are rounded up to the next whole dollar.
