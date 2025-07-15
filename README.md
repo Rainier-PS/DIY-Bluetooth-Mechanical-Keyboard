@@ -21,20 +21,17 @@ The project also gave me a chance to learn about PCB layout, 3D CAD, component s
 ---
 
 ### 3D CAD Model  
-> Simplified CAD model for structural representation only. Some non-critical details like stabilizers and screws are omitted for clarity  
 ![cad_model](images/3D%20Model.png)
 
 ---
 
 ### PCB Design  
-> KiCad layout showing trace routing, USB-C, MCU, and key matrix layout  
-![pcb_layout](images/PCB_Layout.png)
+![pcb_layout](images/PCB.png)
 
 ---
 
 ### Wiring Diagram  
-> Schematic showing battery, USB-C, MCU, and charging connections  
-![wiring_diagram](images/Wiring_Diagram.png)
+![wiring_diagram](images/Schematics.png)
 
 ---
 
