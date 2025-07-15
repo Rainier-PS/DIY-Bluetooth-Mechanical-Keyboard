@@ -1,9 +1,6 @@
 # DIY Bluetooth Mechanical Keyboard
 ---
 Author: "Rainier Pearson Saputra"
-
-Description: "A custom 60% wireless keyboard with Bluetooth, USB-C, a volume slider, and NFC tag integration."
-
 Created at: "2025-07-11"
 
 ---
