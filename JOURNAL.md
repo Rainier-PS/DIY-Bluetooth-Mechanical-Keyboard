@@ -1,7 +1,8 @@
 # DIY Bluetooth Mechanical Keyboard
 ---
-Author: "Rainier Pearson Saputra"
-Created at: "2025-07-11"
+Author: Rainier Pearson Saputra
+
+Created at: 2025-07-11
 
 ---
 
