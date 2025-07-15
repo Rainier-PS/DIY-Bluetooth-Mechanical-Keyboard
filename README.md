@@ -2,7 +2,7 @@
 
 ## 1. Description
 
-The DIY Bluetooth Mechanical Keyboard is a custom-designed wireless keyboard with an ergonomic 6 degree tilt, a slide potentiometer for analog input, USB Type-C connectivity, and hot-swappable MX-style switches. It includes a detachable wrist rest for comfort and features embedded passive NFC tags that can be used for mobile automations or other creative integrations.  
+The DIY Bluetooth Mechanical Keyboard is a custom-designed 3D printed wireless keyboard with an ergonomic 6 degree tilt, a slide potentiometer for analog input, USB Type-C connectivity, and hot-swappable MX-style switches. It includes a detachable wrist rest for comfort and features embedded passive NFC tags that can be used for mobile automations or other creative integrations.  
 
 This keyboard was made to be easily built and remixed by others. The entire design uses mostly through-hole components. Only the diodes are surface-mount, which makes it much easier to assemble without needing any special tools.
 
