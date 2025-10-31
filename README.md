@@ -21,17 +21,17 @@ The project also gave me a chance to learn about PCB layout, 3D CAD, component s
 ---
 
 ### 3D CAD Model  
-![cad_model](images/3D%20Model.png)
+![cad_model](images/3D%20Model.avif)
 
 ---
 
 ### PCB Design  
-![pcb_layout](images/PCB.png)
+![pcb_layout](images/PCB.avif)
 
 ---
 
 ### Wiring Diagram  
-![wiring_diagram](images/Schematics.png)
+![wiring_diagram](images/Schematics.avif)
 
 ---
 
