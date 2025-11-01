@@ -15,7 +15,7 @@ After deciding on the features, I began selecting components and building the in
 
 Once I was done with part selection and BOM creation, I moved into KiCad and created the schematic. I designed a 5 by 16 keyboard matrix and wired everything up to the Nice!Nano. With the schematic complete and everything properly labeled, I was ready to move on to PCB layout the next day.
 
-* **Image:** ![Schematics](images/Schematics.png)
+* **Image:** ![Schematics](images/Schematics.avif)
 
 * **Time Spent: 4.5 hours**
 
@@ -27,7 +27,7 @@ Today was mostly spent inside KiCad. I started by assigning all the footprints t
 
 After that I routed the power lines and connected everything to the Nice!Nano. I also added a JST connector footprint, screw mounting holes, and some basic silkscreen labels to help with assembly.
 
-* **Image:** ![PCB Design](images/PCB.png)
+* **Image:** ![PCB Design](images/PCB.avif)
 
 * **Time Spent: 9 hours**
 
@@ -39,7 +39,7 @@ With the STEP export of the PCB ready, I opened Fusion 360 and started designing
 
 On the inside, I designed clearance around the USB port, slide potentiometer, and created the standoffs for screw mount.
 
-* **Image:** ![Case Design](images/journal/July%2013%202025_Case.png)
+* **Image:** ![Case Design](images/journal/July%2013%202025_Case.avif)
 
 * **Time Spent: 6.5 hours**
 
@@ -63,6 +63,6 @@ I spent the day finishing everything off. In Fusion 360 I added the wrist rest, 
 
 Once all the files were ready, I organized everything into a GitHub repo. I uploaded the BOM, CAD models, KiCad PCB files, and my journal file. Now it's all ready to be submitted.
 
-* **Image:** ![Final Polish](images/journal/July%2015%202025_Final.png)
+* **Image:** ![Final Polish](images/journal/July%2015%202025_Final.avif)
 
 * **Time Spent: 5 hours**
